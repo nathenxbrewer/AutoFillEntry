@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoFillEntry", "AutoFillEntry\AutoFillEntry.csproj", "{FCFA1762-C68D-4541-B929-63919BA11B7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleApp", "SampleApp\SampleApp.csproj", "{E9B15B2D-8530-4A34-BF15-701734B413A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCFA1762-C68D-4541-B929-63919BA11B7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCFA1762-C68D-4541-B929-63919BA11B7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCFA1762-C68D-4541-B929-63919BA11B7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCFA1762-C68D-4541-B929-63919BA11B7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9B15B2D-8530-4A34-BF15-701734B413A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9B15B2D-8530-4A34-BF15-701734B413A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9B15B2D-8530-4A34-BF15-701734B413A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9B15B2D-8530-4A34-BF15-701734B413A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

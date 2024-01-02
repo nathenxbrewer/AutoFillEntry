@@ -1,0 +1,26 @@
+public enum ContentType
+{
+    Unspecified, 
+    EmailAddress, 
+    FullName, 
+    FirstName, 
+    LastName, 
+    MiddleName, 
+    Phone, 
+    StreetAddress, 
+    Address1, 
+    Address2, 
+    City, 
+    State, 
+    PostalCode, 
+    Country, 
+    Username,
+    Password,
+    NewPassword,
+    EmailOTP,
+    SmsOTP,
+    Birthday,
+    BirthdayDay, 
+    BirthdayMonth,
+    BirthdayYear
+}
